@@ -1,0 +1,13 @@
+name: GuildAPI
+author: alvin0319
+main: alvin0319\GuildAPI\GuildAPI
+version: 0.0.1
+api: 4.0.0
+
+permissions:
+  guildapi.command.ui:
+    default: true
+    description: A Sub permission of GuildAPI Command
+  guildapi.command.manage:
+    default: op
+    description: A Sub permission of GuildAPI Command

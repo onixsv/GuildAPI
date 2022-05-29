@@ -1,0 +1,7 @@
+create-money: 100000
+guild-point-money: 10000 # 길드 포인트 환전 비용
+guild-per-point: 100 # 길드 포인트 환전 시 지급되는 길드 포인트 양
+
+original-nametag-point: 1000
+original-announce-point: 1000
+original-increase-size: 1000
